@@ -4,7 +4,7 @@
 - 💞️ I’m looking for SDE roles.
 - 📫 How to reach me: LinkedIn: https://www.linkedin.com/in/prithvijit-basak-4217461b6/
 - :technologist: My all coding profiles: Codeforces: https://codeforces.com/profile/prithvijitbasak
-                                         CodeChef: https://www.codechef.com/users/prithvibasak
+                                            CodeChef: https://www.codechef.com/users/prithvibasak
 <!---
 prithvijitbasak/prithvijitbasak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

@@ -19,6 +19,6 @@
 
 ![Prithvijit Basak Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=prithvijitbasak&layout=compact&theme=gruvbox)
 ## Productivity Stats
-(https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prithvijitbasak&theme=monokai)
+![Prithvijit Basak's Productivity Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prithvijitbasak&theme=monokai)
 
 ![Prithvijit's activity graph](https://activity-graph.herokuapp.com/graph?username=prithvijitbasak&theme=gruvbox)

@@ -38,7 +38,9 @@
 ## GitHub Trophies 🏆
   
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prithvijitbasak" alt="prithvijitbasak" /></a> </p>
+
 ## Streak ️‍🔥
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prithvijitbasak&" alt="prithvijitbasak" /></p>
 
 ![Prithvijit's activity graph](https://activity-graph.herokuapp.com/graph?username=prithvijitbasak&theme=gruvbox)

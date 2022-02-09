@@ -37,4 +37,8 @@
 ## Productivity Stats
 ![Prithvijit Basak's Productivity Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prithvijitbasak&theme=monokai)
 
+## GitHub Trophies 🏆
+  
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prithvijitbasak" alt="prithvijitbasak" /></a> </p>
+
 ![Prithvijit's activity graph](https://activity-graph.herokuapp.com/graph?username=prithvijitbasak&theme=gruvbox)

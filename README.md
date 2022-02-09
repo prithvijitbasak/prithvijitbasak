@@ -43,4 +43,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prithvijitbasak&" alt="prithvijitbasak" /></p>
 
+## Contribution Graph
+
 ![Prithvijit's activity graph](https://activity-graph.herokuapp.com/graph?username=prithvijitbasak&theme=gruvbox)

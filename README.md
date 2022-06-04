@@ -1,4 +1,4 @@
-# Hi there, I'm Prithvijit Basak <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px" height="50px">
+# Hi there, I'm Prithvijit Basak <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px" height="35px">
 <p align="center"><img align="center" width="250" height="180" src=https://c.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif"></p>
  
 <br/>

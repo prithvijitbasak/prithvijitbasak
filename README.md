@@ -12,7 +12,7 @@
 - 📫 Reach me at:-
 <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/prithvijit-basak-4217461b6/)
 - :technologist: My Coding Profiles:-
-<br/> [<img height="80" width="100" src="https://codeforces.org/s/20715/images/codeforces-telegram-square.png"/>](https://codeforces.com/profile/prithvijitbasak) [<img height="80" width="100" src="https://static.tildacdn.com/tild3234-6137-4038-b336-326164306631/leetcode_logo.png"/>](https://leetcode.com/prithvijitbasak/) [<img height="80" width="100" src="https://static.startuptalky.com/2021/04/codechef-logo-startuptalky.jpg"/>](https://www.codechef.com/users/pbasak) [<img height="80" width="100" src="https://img.atcoder.jp/assets/atcoder.png"/>](https://atcoder.jp/users/prithvijitbasak)
+<br/> [<img height="80" width="100" src="https://news.itmo.ru/images/news/big/917925.jpg"/>](https://codeforces.com/profile/prithvijitbasak) [<img height="80" width="100" src="https://static.tildacdn.com/tild3234-6137-4038-b336-326164306631/leetcode_logo.png"/>](https://leetcode.com/prithvijitbasak/) [<img height="80" width="100" src="https://static.startuptalky.com/2021/04/codechef-logo-startuptalky.jpg"/>](https://www.codechef.com/users/pbasak) [<img height="80" width="100" src="https://img.atcoder.jp/assets/atcoder.png"/>](https://atcoder.jp/users/prithvijitbasak)
 <h3 align="left">Languages and Tools 🚀</h3>
 <p align="left"> 
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c"/> </a> 

@@ -5,7 +5,6 @@
    
 
 - 👀 I’m interested in Problem Solving and Web Development.
-- 🎓 I’m currently pursuing CSE(B.Tech) at Camellia Institute of Technology (Kolkata).
 - ✍️ I'm learning DSA and Web Development.
 - 💞️ I’m looking for SDE roles.
 - 💬 Ask me about DSA 
